@@ -17,11 +17,11 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /uptodate-sites
-  logoUrl: https://www.uptodatewebdesign.be/wp-content/uploads/avatar-utd.png
+  #baseUrl: /uptodate-sites
+  #logoUrl: https://www.uptodatewebdesign.be/wp-content/uploads/avatar-utd.png
   name: UP-TO-DATE Sites Status
-  introTitle: "List of websites UP-TO-DATE WebDesign manage and maintain"
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "UTD Sites Status Checker"
+  introMessage: List of websites UP-TO-DATE WebDesign manage and maintain [**Visit Us**](https://www.uptodatewebdesign.com)
   navbar:
     - title: Status
       href: /
