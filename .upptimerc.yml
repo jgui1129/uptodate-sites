@@ -9,9 +9,33 @@ sites:
   - name: UP-TO-DATE WebDesign
     url: https://www.uptodatewebdesign.com
   - name: UP-TO-DATE Today
-    url: https://www.uptodate-today.be/
+    url: https://www.uptodate-today.be
   - name: UP-TO-DATE Events
-    url: https://events.uptodatewebdesign.be/
+    url: https://events.uptodatewebdesign.be
+  - name: Smart-Site
+    url: https://www.smart-site.be
+  - name: Smart-Site Vastgoed
+    url: https://vastgoed-smart-site.blogspot.com
+  - name: Smart-Site Bouw
+    url: https://bouw-smart-site.blogspot.com
+  - name: Dipsss
+    url: https://www.dipsss.be
+  - name: Smart-Site Zone
+    url: https://www.kinderrijck.be
+  - name: Kinderrijck
+    url: https://www.kinderrijck.be
+  - name: De Volmolen
+    url: https://www.vakantieverblijfvolmolen.be
+  - name: Boetiek Shanna
+    url: https://www.boetiekshanna.be
+  - name: Bexx Verhuur
+    url: https://www.bexxverhuur.be
+  - name: TCMS
+    url: https://www.tcms.be
+  - name: Clima Concept
+    url: https://www.climaconcept.be/
+  - name: ABC Villa
+    url: https://www.abcvilla.be
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
