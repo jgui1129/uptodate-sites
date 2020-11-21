@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "UP-TO-DATE WebDesign (BE)",
+    "url": "https://www.uptodatewebdesign.be",
+    "slug": "up-to-date-web-design-be",
     "status": "up",
     "uptime": "100.00",
-    "time": 87
+    "time": 1294
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "UP-TO-DATE WebDesign",
+    "url": "https://www.uptodatewebdesign.com",
+    "slug": "up-to-date-web-design",
     "status": "up",
     "uptime": "100.00",
-    "time": 133
+    "time": 274
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "UP-TO-DATE Today",
+    "url": "https://www.uptodate-today.be/",
+    "slug": "up-to-date-today",
     "status": "up",
     "uptime": "100.00",
-    "time": 341
+    "time": 346
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "98.31",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "UP-TO-DATE Events",
+    "url": "https://events.uptodatewebdesign.be/",
+    "slug": "up-to-date-events",
     "status": "up",
     "uptime": "100.00",
-    "time": 49
+    "time": 298
   }
 ]
