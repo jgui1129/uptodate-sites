@@ -5,7 +5,7 @@
     "slug": "up-to-date-web-design-be",
     "status": "up",
     "uptime": "100.00",
-    "time": 1714
+    "time": 1705
   },
   {
     "name": "UP-TO-DATE WebDesign",
@@ -13,22 +13,118 @@
     "slug": "up-to-date-web-design",
     "status": "up",
     "uptime": "100.00",
-    "time": 274
+    "time": 272
   },
   {
     "name": "UP-TO-DATE Today",
-    "url": "https://www.uptodate-today.be/",
+    "url": "https://www.uptodate-today.be",
     "slug": "up-to-date-today",
     "status": "up",
     "uptime": "100.00",
-    "time": 414
+    "time": 406
   },
   {
     "name": "UP-TO-DATE Events",
-    "url": "https://events.uptodatewebdesign.be/",
+    "url": "https://events.uptodatewebdesign.be",
     "slug": "up-to-date-events",
     "status": "up",
     "uptime": "100.00",
-    "time": 304
+    "time": 307
+  },
+  {
+    "name": "Smart-Site",
+    "url": "https://www.smart-site.be",
+    "slug": "smart-site",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 565
+  },
+  {
+    "name": "Smart-Site Vastgoed",
+    "url": "https://vastgoed-smart-site.blogspot.com",
+    "slug": "smart-site-vastgoed",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 329
+  },
+  {
+    "name": "Smart-Site Bouw",
+    "url": "https://bouw-smart-site.blogspot.com",
+    "slug": "smart-site-bouw",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 978
+  },
+  {
+    "name": "Dipsss",
+    "url": "https://www.dipsss.be",
+    "slug": "dipsss",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 401
+  },
+  {
+    "name": "Smart-Site Zone",
+    "url": "https://www.kinderrijck.be",
+    "slug": "smart-site-zone",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 910
+  },
+  {
+    "name": "Kinderrijck",
+    "url": "https://www.kinderrijck.be",
+    "slug": "kinderrijck",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 82
+  },
+  {
+    "name": "De Volmolen",
+    "url": "https://www.vakantieverblijfvolmolen.be",
+    "slug": "de-volmolen",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 622
+  },
+  {
+    "name": "Boetiek Shanna",
+    "url": "https://www.boetiekshanna.be",
+    "slug": "boetiek-shanna",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 365
+  },
+  {
+    "name": "Bexx Verhuur",
+    "url": "https://www.bexxverhuur.be",
+    "slug": "bexx-verhuur",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 434
+  },
+  {
+    "name": "TCMS",
+    "url": "https://www.tcms.be",
+    "slug": "tcms",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 341
+  },
+  {
+    "name": "Clima Concept",
+    "url": "https://www.climaconcept.be/",
+    "slug": "clima-concept",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1103
+  },
+  {
+    "name": "ABC Villa",
+    "url": "https://www.abcvilla.be",
+    "slug": "abc-villa",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 434
   }
 ]
