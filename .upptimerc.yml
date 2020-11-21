@@ -17,7 +17,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /
+  baseUrl: /uptodate-sites
   logoUrl: https://www.uptodatewebdesign.be/wp-content/uploads/avatar-utd.png
   name: UP-TO-DATE Sites Status
   introTitle: "UTD Sites Status Checker"
