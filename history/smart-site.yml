@@ -1,7 +1,7 @@
 url: https://www.smart-site.be  
-status: up
-code: 200
-responseTime: 466
-lastUpdated: 2020-12-13T23:12:43.426Z
+status: down
+code: 500
+responseTime: 402
+lastUpdated: 2020-12-14T11:53:59.134Z
 startTime: Sat Nov 21 2020 17:36:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
