@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.uptodatewebdesign.be",
     "slug": "up-to-date-web-design-be",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 2366,
     "timeDay": 1491,
     "timeWeek": 2307,
@@ -24,18 +24,20 @@
     "url": "https://www.uptodatewebdesign.com",
     "icon": "https://favicons.githubusercontent.com/www.uptodatewebdesign.com",
     "slug": "up-to-date-web-design",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 316,
-    "timeWeek": 350,
-    "timeMonth": 298,
-    "timeYear": 298,
-    "dailyMinutesDown": {}
+    "time": 299,
+    "timeDay": 320,
+    "timeWeek": 347,
+    "timeMonth": 299,
+    "timeYear": 299,
+    "dailyMinutesDown": {
+      "2020-12-14": 0
+    }
   },
   {
     "name": "UP-TO-DATE Today",
@@ -78,18 +80,20 @@
     "url": "https://www.smart-site.be",
     "icon": "https://favicons.githubusercontent.com/www.smart-site.be",
     "slug": "smart-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 390,
-    "timeDay": 466,
+    "timeDay": 434,
     "timeWeek": 408,
     "timeMonth": 390,
     "timeYear": 390,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-14": 0
+    }
   },
   {
     "name": "Smart-Site Vastgoed",
