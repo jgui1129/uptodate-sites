@@ -1,7 +1,7 @@
 url: https://www.vakantieverblijfvolmolen.be
-status: down
-code: 503
-responseTime: 15241
-lastUpdated: 2021-04-05T18:42:30.228Z
+status: up
+code: 200
+responseTime: 431
+lastUpdated: 2021-04-05T18:57:21.406Z
 startTime: Tue Jan 05 2021 18:17:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
