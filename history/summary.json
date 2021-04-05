@@ -46,28 +46,30 @@
     "url": "https://www.uptodate-today.be",
     "icon": "https://favicons.githubusercontent.com/www.uptodate-today.be",
     "slug": "up-to-date-today",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 410,
-    "timeDay": 296,
-    "timeWeek": 361,
-    "timeMonth": 374,
-    "timeYear": 410,
-    "dailyMinutesDown": {}
+    "time": 478,
+    "timeDay": 5308,
+    "timeWeek": 1606,
+    "timeMonth": 685,
+    "timeYear": 478,
+    "dailyMinutesDown": {
+      "2021-04-05": 2
+    }
   },
   {
     "name": "UP-TO-DATE Events",
     "url": "https://events.uptodatewebdesign.be",
     "icon": "https://favicons.githubusercontent.com/events.uptodatewebdesign.be",
     "slug": "up-to-date-events",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 335,
@@ -75,7 +77,9 @@
     "timeWeek": 293,
     "timeMonth": 313,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-05": 2
+    }
   },
   {
     "name": "Smart-Site",
@@ -158,10 +162,10 @@
     "url": "https://www.kinderrijck.be",
     "icon": "https://favicons.githubusercontent.com/www.kinderrijck.be",
     "slug": "smart-site-zone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 390,
@@ -169,7 +173,9 @@
     "timeWeek": 350,
     "timeMonth": 361,
     "timeYear": 390,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-05": 1
+    }
   },
   {
     "name": "Kinderrijck",
@@ -194,18 +200,20 @@
     "url": "https://www.vakantieverblijfvolmolen.be",
     "icon": "https://favicons.githubusercontent.com/www.vakantieverblijfvolmolen.be",
     "slug": "de-volmolen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 447,
-    "timeDay": 344,
-    "timeWeek": 416,
-    "timeMonth": 373,
-    "timeYear": 447,
-    "dailyMinutesDown": {}
+    "time": 554,
+    "timeDay": 7793,
+    "timeWeek": 2269,
+    "timeMonth": 837,
+    "timeYear": 554,
+    "dailyMinutesDown": {
+      "2021-04-05": 1
+    }
   },
   {
     "name": "Boetiek Shanna",
@@ -250,9 +258,9 @@
     "url": "https://www.tcms.be",
     "icon": "https://favicons.githubusercontent.com/www.tcms.be",
     "slug": "tcms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -262,6 +270,7 @@
     "timeMonth": 402,
     "timeYear": 404,
     "dailyMinutesDown": {
+      "2021-04-05": 0,
       "2021-02-17": 95,
       "2020-12-14": 30
     }
