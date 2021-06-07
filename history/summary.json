@@ -88,18 +88,19 @@
     "url": "https://www.smart-site.be",
     "icon": "https://favicons.githubusercontent.com/www.smart-site.be",
     "slug": "smart-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 424,
-    "timeDay": 498,
-    "timeWeek": 418,
-    "timeMonth": 436,
-    "timeYear": 424,
+    "time": 473,
+    "timeDay": 5371,
+    "timeWeek": 1646,
+    "timeMonth": 742,
+    "timeYear": 473,
     "dailyMinutesDown": {
+      "2021-06-07": 1,
       "2020-12-14": 50
     }
   },
@@ -258,9 +259,9 @@
     "url": "https://www.tcms.be",
     "icon": "https://favicons.githubusercontent.com/www.tcms.be",
     "slug": "tcms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -270,6 +271,7 @@
     "timeMonth": 412,
     "timeYear": 447,
     "dailyMinutesDown": {
+      "2021-06-07": 0,
       "2021-02-17": 95,
       "2020-12-14": 30
     }
