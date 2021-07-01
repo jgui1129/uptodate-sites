@@ -13,7 +13,7 @@
     "time": 2134,
     "timeDay": 2316,
     "timeWeek": 3739,
-    "timeMonth": 2822,
+    "timeMonth": 2868,
     "timeYear": 2134,
     "dailyMinutesDown": {
       "2021-06-28": 29,
@@ -38,7 +38,7 @@
     "time": 271,
     "timeDay": 353,
     "timeWeek": 229,
-    "timeMonth": 262,
+    "timeMonth": 265,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2020-12-14": 50
@@ -58,7 +58,7 @@
     "time": 456,
     "timeDay": 675,
     "timeWeek": 352,
-    "timeMonth": 432,
+    "timeMonth": 431,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2021-04-05": 16
@@ -98,7 +98,7 @@
     "time": 488,
     "timeDay": 744,
     "timeWeek": 654,
-    "timeMonth": 855,
+    "timeMonth": 868,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2021-06-30": 43,
@@ -120,7 +120,7 @@
     "time": 253,
     "timeDay": 222,
     "timeWeek": 240,
-    "timeMonth": 259,
+    "timeMonth": 255,
     "timeYear": 253,
     "dailyMinutesDown": {}
   },
@@ -138,7 +138,7 @@
     "time": 622,
     "timeDay": 720,
     "timeWeek": 524,
-    "timeMonth": 614,
+    "timeMonth": 616,
     "timeYear": 622,
     "dailyMinutesDown": {
       "2021-06-25": 17,
@@ -179,7 +179,7 @@
     "time": 385,
     "timeDay": 397,
     "timeWeek": 344,
-    "timeMonth": 383,
+    "timeMonth": 379,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2021-04-05": 16
@@ -199,7 +199,7 @@
     "time": 68,
     "timeDay": 73,
     "timeWeek": 65,
-    "timeMonth": 66,
+    "timeMonth": 65,
     "timeYear": 68,
     "dailyMinutesDown": {}
   },
@@ -217,7 +217,7 @@
     "time": 496,
     "timeDay": 460,
     "timeWeek": 364,
-    "timeMonth": 408,
+    "timeMonth": 410,
     "timeYear": 496,
     "dailyMinutesDown": {}
   },
@@ -255,7 +255,7 @@
     "time": 408,
     "timeDay": 416,
     "timeWeek": 376,
-    "timeMonth": 396,
+    "timeMonth": 399,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2020-12-14": 30
@@ -275,7 +275,7 @@
     "time": 444,
     "timeDay": 487,
     "timeWeek": 403,
-    "timeMonth": 415,
+    "timeMonth": 417,
     "timeYear": 444,
     "dailyMinutesDown": {
       "2021-06-07": 141,
@@ -297,7 +297,7 @@
     "time": 651,
     "timeDay": 649,
     "timeWeek": 499,
-    "timeMonth": 533,
+    "timeMonth": 534,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2020-11-30": 25
@@ -309,18 +309,19 @@
     "icon": "https://favicons.githubusercontent.com/www.abcvilla.be",
     "slug": "abc-villa",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.66%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.66%",
     "time": 1041,
     "timeDay": 2239,
     "timeWeek": 1826,
-    "timeMonth": 1837,
+    "timeMonth": 1843,
     "timeYear": 1041,
     "dailyMinutesDown": {
-      "2021-06-30": 0,
+      "2021-07-01": 30,
+      "2021-06-30": 5,
       "2021-06-25": 15,
       "2021-06-18": 27,
       "2021-05-05": 43,
